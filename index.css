@@ -1,0 +1,20 @@
+.bg-container{
+    background-image:url(https://img.freepik.com/free-photo/empty-sea-beach-background_74190-313.jpg?size=626&ext=jpg&ga=GA1.2.637578307.1678718146&semt=sph) ;
+    height: 100vh;
+    background-size: cover;
+}
+.tourism-card{
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.btn{
+    height: 36px;
+    width: 138px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 25px;
+    border-width: 0px;
+}
